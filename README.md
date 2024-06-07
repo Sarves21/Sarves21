@@ -1,7 +1,7 @@
 # Hi there, I'm Sarvesvar! 👋
 
 ## About Me
-- 🌱 Learning Web Development
+- 🌱 Learning Java , Web Development
 - 📫 Reach me: [Email](mailto:sarvesvarms@example.com)
 - 👀 I’m interested in Software development , Web development
 
